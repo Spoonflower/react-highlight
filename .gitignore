@@ -28,5 +28,8 @@ node_modules
 .lock-wscript
 .sass-cache
 build
-lib
+
+# Need the build to be able to get the functioning package via git.
+# lib
+
 package-lock.json
